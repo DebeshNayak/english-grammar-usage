@@ -8,11 +8,15 @@ In the family of these modal verbs:
 ---
 Should:
     - Past of 'shall'
-    - Provide suggestion | Ask for any suggestion
-    - Example:
-        - You should watch more videos.
-        - You should study English everyday.
-    - So 'Should' usage is very simple.
+    - Should + Verb 1st form
+    1. Usage 1:
+        - To give or to ask for ADVICE
+        - Example:
+            - You should watch more videos.
+            - You should study English everyday.
+            - You should work hard.
+            - Do you think I should phone her?
+            - They shouldn't waste their time.
 ---
 Could | Would:
     - These two can be used interchangably.
@@ -37,6 +41,8 @@ Could:
             - Could|Would you please hold this for a minute?
             - Could|Would you do me a favor, please?
     4. Usage 4: (Reported Speech - Indirect Speech)
+        - Future in the past.
+        - Past of 'can'
         - Example:
             - She said that she could dance.
             - He said that he couldn't walk.
@@ -44,4 +50,31 @@ Could:
 Would:
     - Past of 'will'.
     - Would + Verb 1st form 
-    - 
+    1. Usage 1: (Repeated actions in the PAST - Alternative use of USED TO)
+        - Example:
+            - When I was little, I would often go to my granny's house.
+            (I used to go to my grann...)
+            - Two years ago, I would study English 4 hours a day. But now, I don't.
+    2. Usage 2: (To talk about Imaginary Situation - PRESENT or FUTURE)
+        - 2nd Conditional or Mixed Conditional
+        - Here we talk about present and future. (And not past)
+        - Present - Past + Simple
+        - Future - Would + Verb 1st Form 
+        - Example: 
+            - If I were you, I would make a lot of changes. (2nd conditional)
+            - I would go to her party if she invited me. 
+            - If I had listened to my father, I wouldn't be in trouble. (mixed conditional)
+    3. Usage 3: (To make Polite Requests, Offeres and Invitations - PRESENT, FUTURE)
+        - Example: 
+            - Would you pass the salt, please?
+            - Would you mind opening the window?
+            - Would you like tea or coffee?
+            - Would you like to join us for the dinner?
+    4. Usage 4: (Reported Speech - Indirect Speech)
+        - Future in the past.
+        - Past of 'will'
+        - Example: 
+            - She saild that she would dance.
+            - I knew he would win.
+            - I thought he would never come.
+            - 
